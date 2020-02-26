@@ -1,0 +1,19 @@
+
+header h2{
+    color: red;
+   
+}
+
+ul{
+    background:linear-gradient(teal,grey);
+    list-style: none;
+    padding: 20px;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    margin-left: 40px;
+    color: white;
+}
